@@ -6,7 +6,7 @@ Vultr is one of those cloud providers that doesn't try to confuse you with a mil
 
 What makes Vultr interesting is their straightforward approach. You get high-performance cloud servers powered by the latest Intel and AMD processors, NVMe SSD storage, and a control panel that doesn't require a PhD to understand. They've got 32 data centers spread across six continents, which means you can actually deploy servers close to your users without breaking the bank.
 
-![Uploading image.png…]()
+<img width="3080" height="1645" alt="image" src="https://github.com/user-attachments/assets/03d8d297-6763-42ec-b6db-8f4d74ddbe23" />
 
 The company serves over 1.5 million customers in 185 countries. Their offerings include cloud compute instances, bare metal servers, cloud storage, managed databases, Kubernetes, and even cloud GPUs for AI workloads. The pricing model is hourly billing—you only pay for what you use, which is great when you're testing things out or running temporary workloads.
 
